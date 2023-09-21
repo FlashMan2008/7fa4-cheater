@@ -1,0 +1,15 @@
+/* ==UserStyle==
+@name           7FA4 Color
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Brown the cheaters!
+@author         Flash_Man
+==/UserStyle== */
+@-moz-document url-prefix("http://oj.7fa4.cn/"),
+url-prefix("http://www.7fa4.cn/"),
+url-prefix("http://139.155.86.76:5283/") {
+    a[href="/user/757"] {
+        color: #996600 !important;
+        font-weight: bold;
+    }
+}
